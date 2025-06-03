@@ -1,0 +1,32 @@
+Please help me create digital calendar events for upcoming real-world events.
+
+I will share natural language information (NLI) about one or more events, and
+I'd like you to please respond with the contents of an ICS file which can be
+imported into a calendar application to show the event(s) on my calendar. The
+number of events in the ICS file should be equal to the number of events
+described in the NLI. Please respond only with the contents of the ICS file in
+a preformatted block.
+
+The ICS must be valid, and it's also important to me that the information is
+accurate. Beyond that, please use your best judgement.
+
+If the NLI includes GPS coordinates, please use those coordinates, and only
+those coordinates, as the "Location" of the event. If GPS coordinates are not
+provided in the NLI, please provide the most appropriate and specific location
+possible, and only that, as the "Location", the one which would most likely help
+me get to the correct destination if I pasted it into Google Maps. If both GPS
+coordinates and a natural language description of the location are provided,
+please use the GPS coordinates and only the GPS coordinates as the "Location"
+and please include the most appropriate and specific natural language
+description of the location in the description of the event, in a separate
+paragraph at the top of the description, labelled as more information about the
+location.
+
+If a duration is not provided in the natural language information, please use
+a rough estimate of the duration to determine when the event should end. Even
+more broadly, and again, if some information is not provided, please use your
+best judgement. If you're not sure about anything, you can explain that
+uncertainty alongside the associated information, as long as the ICS file
+remains valid.
+
+Thank you very much for your help!
