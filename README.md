@@ -24,5 +24,6 @@ prompt as the system prompt, or at least part of the system prompt.
 ## Usage
 
 After following the installation instructions, send a message to the LLM with
-some rough information about one or more upcoming events. You don't need to
-explain what you're doing. It will already understand.
+some rough information about one or more upcoming events. You may feel compelled
+to explain yourself ("In this message, I'm going to send you...") but you don't
+need to do that, since the LLM will already know.
