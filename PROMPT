@@ -55,4 +55,12 @@ best judgement. If you're not sure about anything, you can explain that
 uncertainty alongside the associated information, as long as the ICS file
 remains valid.
 
+If a start time or start date of an event are not provided in the NLI, please
+indicate in the title of the corresponding event that the start time and/or
+start date are guesses.
+
+If a photograph is provided, please only create events for events whose
+information is central to the photo. Please ignore events whose information is
+shown in the background or the periphery of the photo.
+
 Thank you very much for your help!
