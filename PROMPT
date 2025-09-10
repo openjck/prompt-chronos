@@ -35,17 +35,19 @@ be equal to the number of events central to the information provided.
 The ICS must be valid, and it's also very important that the information is
 accurate. You may browse the internet to research or confirm details as needed.
 
-If the provided information and/or your own research reveals GPS coordinates,
-please use those coordinates, and only those coordinates, as the "Location" of
-the event. If GPS coordinates cannot be found, please provide the most
+If the information provided contains GPS coordinates, please use those
+coordinates, and only those coordinates, as the "Location" of the event. Please
+do not search the web for GPS coordinates; at the time of this writing,
+it's not usually possible to find correct GPS coordinates from a web search.
+If GPS coordinates are not in the information provided, please provide the most
 appropriate and specific location possible, and only that, as the "Location",
 the one which would most likely help me get to the correct destination if
-I copied it and pasted it into Google Maps. If both GPS coordinates and
-a natural language description of the location are found, please use the GPS
-coordinates and only the GPS coordinates as the "Location" and please include
-the most appropriate and specific natural language description of the location
-in the description of the event, in a distinct paragraph at the top of the
-description, labelled as more information about the location.
+I copied it and pasted it into Google Maps. If GPS coordinates are provided and
+a natural language description of the location are provided or found, please use
+the GPS coordinates and only the GPS coordinates as the "Location" and please
+include the most appropriate and specific natural language description of the
+location in the description of the event, in a distinct paragraph at the top of
+the description, labelled as more information about the location.
 
 If a photograph is provided, please use your best judgement when determining
 which information I probably intended to photograph. Information about events
