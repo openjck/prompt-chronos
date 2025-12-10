@@ -24,42 +24,65 @@ described in these instructions.
 
 Here are your specific instructions:
 
-Please create digital calendar events, in the ICS format, for upcoming
-real-world events.
+I'd to add one or more events to my digital calendar. I will provide you with
+information about one or more events, and I'd like you to please respond with
+the contents of a valid ICS file that I can import into a digital calendar to
+create those events in the digital calendar.
 
-I will share information about one or more events, and I'd like you to please
-respond only with an ICS file that can be imported into a calendar application
-to show the event(s) on my calendar. The number of events in the ICS file should
-be equal to the number of events central to the information provided.
+In the user interface that I'm using to communicate with you, you may not be
+able to respond with a real file. For that reason, please instead respond with
+a preformatted block which contains the contents of the ICS file. I will save
+those contents as an ICS file, then I will import that ICS file into my digital
+calendar.
 
-The ICS must be valid, and it's also very important that the information is
-accurate. You may browse the internet to research or confirm details as needed.
+The most important elements of a digital calendar event are the title, location,
+description, date, and time. It's important that all of this information is
+accurate and useful. In the following paragraphs, I'll some tips for finding and
+formatting that information based on the information I provide.
 
-If the information provided contains GPS coordinates, please use those
-coordinates, and only those coordinates, as the "Location" of the event. Please
-do not search the web for GPS coordinates; at the time of this writing,
-it's not usually possible to find correct GPS coordinates from a web search.
-If GPS coordinates are not in the information provided, please provide the most
-appropriate and specific location possible, and only that, as the "Location",
-the one which would most likely help me get to the correct destination if
-I copied it and pasted it into Google Maps. If GPS coordinates are provided and
-a natural language description of the location are provided or found, please use
-the GPS coordinates and only the GPS coordinates as the "Location" and please
-include the most appropriate and specific natural language description of the
-location in the description of the event, in a distinct paragraph at the top of
-the description, labelled as more information about the location.
+You can browse the internet to research or confirm any details as needed.
+However, please do not search the internet for GPS coordinates, because you
+probably won't find sufficiently precise GPS coordinates by searching the
+internet.
 
-If a photograph is provided, please use your best judgement when determining
-which information I probably intended to photograph. Information about events
+Location: I'd like to be able to copy and paste the location from the digital
+calendar event into Google Maps so that I can get to the destination. For that
+reason, if the information provided to you and/or the information you find...
+    - contains GPS coordinates: Please use those coordinates and only those
+      coordinates as the "Location" of the event.
+    - does not contain GPS coordinates: Please use the most appropriate and
+      specific location, and only that, as the "Location" of the event. Again,
+      since I'd like to copy and paste the "Location" field's value into Google
+      Maps, this should be in whatever form would be most likely to get me to my
+      precise destination if I were to copy and paste it into Google Maps.
+    - contains both GPS coordinates and a natural language description of the
+      location: Please use the GPS coordinates and only the GPS coordinates as
+      the "Location", as explained above, but please also include more
+      information about the location in the description of the event, at the top
+      of the description, in a separate paragraph labelled as such, as more
+      information about the location.
+
+Date and time: If the year or month of the event is not provided, you can assume
+it's the next date which satisfies those requirements. For example, if today is
+November 30th, 2025 and the event is described as occurring "on the 10th", or
+something like that, you can assume it's going to take place on December 10,
+2025. If the start date, start time, end date, or end time are unavailable or
+unclear, please make an educated guess. If the start date, start time, end date,
+or end time are unavailable or unclear, please also begin the title of the event
+with an asterisk in square brackets, followed by a space, followed by the rest
+of the title, then, in the description of the event, explain what you guessed in
+a footnote which is marked by an asterisk, following standard footnote
+conventions.
+
+Other uncertain details: In general, if you're not sure about anything, you can
+explain that uncertainty alongside the associated information, as long as the
+ICS file remains valid. You can use that same asterisk formatting method
+described in the date and time section above if you think it would be helpful.
+
+Photographs: If a photograph is provided to you, please use your best judgement
+in determining which information I probably intended to photograph. Information
 which appears in the background or periphery of the photo is probably
 information I did not intend to capture, and it can probably be ignored. Focus
 on the events whose information is most conspicuous in the photograph.
-
-If any information (e.g., start time, start date, end time, end date, etc.) is
-unavailable, please make an educated guess and please in square brackets at the
-beginning of the title which information was guessed.
-
-In general, if you're not sure about anything, you can explain that uncertainty
-alongside the associated information, as long as the ICS file remains valid.
 
 Thank you very much for your help!
