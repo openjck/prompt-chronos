@@ -1,3 +1,9 @@
+This prompt has been reimplemented as an agent skill in my
+[agent-skills](https://github.com/openjck/agent-skills) project. For that
+reason, this project is archived.
+
+---
+
 Chronos is a prompt which instructs an LLM to create an ICS file for one or more
 upcoming events which are explained to it in natural language. The resulting ICS
 file can be imported into a calendar application.
